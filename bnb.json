@@ -24,6 +24,22 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    },
+    {
+      "name": "Token3",
+      "address": "0x97539c0d8de0b89c3d4617130572763f4d968476",
+      "symbol": "T3",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    },
+    {
+      "name": "Token4",
+      "address": "0xb16c84b5fc9bf4276794542cc7d8423a77c22712",
+      "symbol": "T4",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
     }
   ]
 }
