@@ -1,0 +1,29 @@
+{
+  "name": "BNB Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": ["bnb", "binance", "tokens"],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Token1",
+      "address": "0x36c97a9f9f0628bcc12cd3ebe7555bf9940fc8c5",
+      "symbol": "T1",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2ba592f78db6436527729929aaf6c908497cb200.png"
+    },
+    {
+      "name": "Token2",
+      "address": "0x832300bedf22c23982bf8d71d232132001875eb1",
+      "symbol": "T2",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    }
+  ]
+}
